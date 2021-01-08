@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Django !
 - 🌱 I’m currently learning Python !
-- 🤔 I’m looking for help with Django and Python !
+- ⁉ I’m looking for help with Django and Python !
 
 ---
 
