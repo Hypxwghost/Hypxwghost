@@ -29,3 +29,6 @@
 ![Hypxwghost's github stats](https://github-readme-stats.vercel.app/api?username=Hypxwghost&hide_border=True&show_icons=True&layout=default&langs-cont=10&theme=midnight-purple)
 
 [![Hypxwghost's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hypxwghost)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Hypxwghost&color=ff69b4&label=Visitante+N°)
+
