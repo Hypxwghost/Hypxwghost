@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on Django !
 - 🌱 I’m currently learning Python !
 - ⁉ I’m looking for help with Django and Python !
+- Stay safe,stay at 127.0.0.0,wear a 255.255.255.255 !
 
 ---
 
