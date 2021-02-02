@@ -1,6 +1,6 @@
 ### Welcome,Stranger !
 
-<img src='https://github.com/Hypxwghost/teste-secreto/blob/main/FB_IMG_1584161872967.jpg' width='400' height='430'>
+<img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Gato.jpg' width='400' height='430'>
 
 ---
 
