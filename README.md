@@ -4,9 +4,9 @@
 
 ---
 
-- 🔭 I’m currently working on Reactjs and Python!
-- 🌱 I’m currently learning Python and Reactjs !
-- ⁉ I’m looking for help with React,JavaScript,Typescript and Python !
+- 🔭 I’m currently working with Rust,Shell and Python!
+- 🌱 I’m currently learning Rust and Shell !
+- ⁉ I’m looking for help with Rust and Python !
 - Stay safe,stay at 127.0.0.0,wear a 255.255.255.255 !
 
 ---
@@ -18,7 +18,6 @@
 ---
 
 💬 Maybe I can help you with:
-- <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/django-logo-positive.png' width='80' height='30'>
 - <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/python-logo.png' width='20' height='20'>Python
 - <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Xubuntu_logo_and_wordmark.svg' width='100' height='20'>(Linux)
 - <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' width='20' height=20>Typescript
