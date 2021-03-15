@@ -20,7 +20,7 @@
 
 - 📫 How to reach me:
 - :email:Email: mikuh5549@gmail.com
-- ### <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Discord_logo_PNG2.png' width='100' height='20'> [Ghostehypxw#5818]
+- ### <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Discord_logo_PNG2.png' width='100' height='20'> Ghostehypxw#5818
 
 ---
 
