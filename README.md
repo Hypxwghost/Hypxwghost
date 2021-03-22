@@ -35,7 +35,7 @@
 
 ---
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypxwghost&hide_border=True&theme=midnight-purple"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypxwghost&hide_border=True&theme=midnight-purple&exclude_repo=dotfiles"/>
 
 ![Hypxwghost's github stats](https://github-readme-stats.vercel.app/api?username=Hypxwghost&hide_border=True&show_icons=True&layout=default&langs-cont=10&theme=midnight-purple)
 
