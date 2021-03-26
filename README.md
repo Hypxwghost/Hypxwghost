@@ -9,6 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Hypxwghost&color=ff69b4&label=Besucher+N°)
 
+[En Version](https://github.com/Hypxwghost/Hypxwghost/edit/main/README_EN.md)
+
 
 ----
 
