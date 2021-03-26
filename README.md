@@ -16,7 +16,7 @@
 
 - 🔭 Ich arbeite derzeit mit Rust, Shell und Python!
 - 🌱 Ich lerne gerade Rust and Shell! (Und Deutsch)
--⁉ Ich suche Hilfe bei Rust und Python!
+- ⁉ Ich suche Hilfe bei Rust und Python!
 - Bleib sicher, bleib bei 127.0.0.0, trage eine 255.255.255.255!
 
 ---
