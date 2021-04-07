@@ -5,7 +5,7 @@
 <img src='https://img.shields.io/github/followers/Hypxwghost?style=social'>
 <img src='https://img.shields.io/badge/OS:-Arch-blue?logo=arch-linux'>
 <img src='https://img.shields.io/badge/Main Lang:- Python-blue?logo=python&logoColor=yellow'>
-<img src='https://img.shields.io/badge/Editor:-VScode && Vim-blue?logo=vim'>
+<img src='https://img.shields.io/badge/Editor:-VScode && Vim-blue?logo=vim&color=green'>
 
 ![](https://komarev.com/ghpvc/?username=Hypxwghost&color=ff69b4&label=Besucher+N°)
 
