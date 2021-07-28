@@ -11,16 +11,16 @@
 
 ----
 
-- 🔭 I’m currently working with Rust,Shell and Python!
-- 🌱 I’m currently learning Rust and Shell !
-- ⁉ I’m looking for help with Rust and Python !
+- 🔭 I’m currently working with Python and React!
+- 🌱 I’m currently learning React and Python !
+- ⁉ I’m looking for help with React and Python !
 - Stay safe,stay at 127.0.0.0,wear a 255.255.255.255 !
 
 ---
 
 - 📫 How to reach me:
 - :email:Email: mikuh5549@gmail.com
-- ### <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Discord_logo_PNG2.png' width='100' height='20'> Ghostehypxw#5818
+- ### <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Discord_logo_PNG2.png' width='100' height='20'> khalli#5818
 
 ---
 
