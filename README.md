@@ -19,7 +19,7 @@
 
 - 📫 How to reach me:
 - :email:Email: mikuh5549@gmail.com
-- ### <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Discord_logo_PNG2.png' width='100' height='20'> khalli#5818
+- ### <img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Discord_logo_PNG2.png' width='100' height='20'> khall1
 
 ---
 
@@ -32,5 +32,3 @@
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypxwghost&hide_border=True&theme=midnight-purple&exclude_repo=dotfiles"/>
 
 ![Hypxwghost's github stats](https://github-readme-stats.vercel.app/api?username=Hypxwghost&hide_border=True&show_icons=True&layout=default&langs-cont=10&theme=midnight-purple)
-
-[![Hypxwghost's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hypxwghost)](https://github.com/anuraghazra/github-readme-stats)
