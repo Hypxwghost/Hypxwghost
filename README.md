@@ -1,6 +1,6 @@
 ### Welcome,Stranger !
 
-<img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/Gato.jpg' width='400' height='430'>
+<img src='https://github.com/Hypxwghost/Hypxwghost/blob/main/image.png' width='450' height='550'>
 <img src='https://img.shields.io/github/followers/Hypxwghost?style=social'>
 <img src='https://img.shields.io/badge/OS:-Win11/ArchLinux-blue?logo=windows'>
 <img src='https://img.shields.io/badge/Main Lang:- Python-blue?logo=python&logoColor=yellow'>
